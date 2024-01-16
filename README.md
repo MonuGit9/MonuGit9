@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monugit9" alt="monugit9" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/monusingh_17" target="blank"><img src="https://img.shields.io/twitter/follow/monusingh_17?logo=twitter&style=for-the-badge" alt="monusingh_17" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://ih1.redbubble.net/image.3513824038.8047/st,small,507x507-pad,600x600,f8f8f8.jpg">
+
 
 - 🌱 I’m currently learning **Java, Android Development**
 
